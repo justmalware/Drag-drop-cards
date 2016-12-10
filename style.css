@@ -1,0 +1,36 @@
+#navbar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#navbar li { display: inline; }
+
+#firstColumn{
+	font-family: fantasy;
+	font-style: serif;
+	font-style: italic;
+	font-weight: 900;
+	font-size: 20px;
+}
+
+#main{
+	font-family: fantasy;
+	font-style: serif;
+	font-style: italic;
+	font-weight: 900;
+	font: bold;
+	font-size: 20px;
+}
+#secondColumn{
+	font-family: fantasy;
+	font-style: serif;
+	font-style: italic;
+	font-weight: 900;
+	font-size: 20px;
+}
+
+
+*{
+	background: #DCDCDC
+}
+
